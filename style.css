@@ -23,6 +23,7 @@ h2{
 .top-banner {
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+    
 }
 section{
     height: 500px;
@@ -38,6 +39,7 @@ section{
 }
 p{
     color: dimgray;
+    text-align: justify;
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
@@ -71,4 +73,7 @@ footer p{
     text-align: center;
     font-size: 12px;
 
+}
+#experience{
+    text-align: center;
 }
